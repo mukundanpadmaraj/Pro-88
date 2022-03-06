@@ -34,7 +34,6 @@ function new_image()
 		})
 		canvas.add(ball_obj);
 	})
-	new_image();
 }
 
 window.addEventListener("keydown", my_keydown);
